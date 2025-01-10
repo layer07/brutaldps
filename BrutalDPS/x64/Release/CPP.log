@@ -1,0 +1,12 @@
+﻿  main.cpp
+A:\PROVA\c\CPP_BEAUTIFUL\main.cpp(85,59): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+A:\PROVA\c\CPP_BEAUTIFUL\main.cpp(85,59): warning C4267:         with
+A:\PROVA\c\CPP_BEAUTIFUL\main.cpp(85,59): warning C4267:         [
+A:\PROVA\c\CPP_BEAUTIFUL\main.cpp(85,59): warning C4267:             _Ty=int
+A:\PROVA\c\CPP_BEAUTIFUL\main.cpp(85,59): warning C4267:         ]
+  print_utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1782 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CPP.vcxproj -> A:\PROVA\c\CPP_BEAUTIFUL\x64\Release\BrutalDPS.exe
